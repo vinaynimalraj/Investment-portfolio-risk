@@ -1,0 +1,37 @@
+{
+  "downloaded_at_utc": "2026-11-24T11:24:14.645452+00:00",
+  "source": "Yahoo Finance via yfinance",
+  "yfinance_version": "1.8.0",
+  "pandas_version": "3.1.1",
+  "requested_tickers": [
+    "SPY",
+    "QQQ",
+    "NVDA",
+    "AAPL",
+    "IEF",
+    "GLD"
+  ],
+  "requested_start_inclusive": "2021-11-24",
+  "requested_end_exclusive": "2026-11-24",
+  "interval": "1d",
+  "adjustment": "yfinance auto_adjust=True; adjusted Close series",
+  "first_common_date": "2021-11-24",
+  "last_common_date": "2026-11-23",
+  "downloaded_rows": 1254,
+  "common_rows": 1254,
+  "rows_removed_for_missing_prices": 0,
+  "missing_prices_by_ticker": {
+    "SPY": 0,
+    "QQQ": 0,
+    "NVDA": 0,
+    "AAPL": 0,
+    "IEF": 0,
+    "GLD": 0
+  },
+  "warnings": [],
+  "limitations": [
+    "Only dates returned by the provider are checked; no exchange calendar reconciliation.",
+    "Provider adjustments have not been independently verified against corporate actions.",
+    "Adjusted price levels are not trade execution prices."
+  ]
+}

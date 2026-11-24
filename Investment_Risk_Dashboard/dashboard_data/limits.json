@@ -1,0 +1,8 @@
+{
+  "single_stock": 0.12,
+  "equity": 0.65,
+  "direct_stock_tickers": [
+    "NVDA",
+    "AAPL"
+  ]
+}
