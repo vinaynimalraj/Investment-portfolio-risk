@@ -1,0 +1,7 @@
+ticker,security_name,asset_class,investment_focus,currency,initial_weight,initial_investment_usd
+SPY,S&P 500 ETF,Equity,Broad US equities,USD,0.25,2500000
+QQQ,Nasdaq-100 ETF,Equity,Nasdaq-100 equities,USD,0.20,2000000
+NVDA,Nvidia,Equity,Individual company,USD,0.15,1500000
+AAPL,Apple,Equity,Individual company,USD,0.10,1000000
+IEF,US Treasury bond ETF,Fixed income,Intermediate US Treasuries,USD,0.20,2000000
+GLD,Gold fund,Commodity,Gold,USD,0.10,1000000
